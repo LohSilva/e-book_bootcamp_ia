@@ -41,4 +41,4 @@ Este é um projeto de aprendizado e está aberto a sugestões. Se tiver ideias o
 Este projeto é livre para uso pessoal e aprendizado. Para uso comercial, entre em contato.
 
 🚀 Vamos explorar juntos como a IA pode transformar a maneira como criamos e aprendemos!
-# e-book_bootcamp_ia
+
